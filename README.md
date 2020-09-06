@@ -1,2 +1,3 @@
-# EmTech-Introduccion_a_Python
+# PROYECTO-01-DELGADO-JOSUE
 Proyecto Final Introducción a Python
+EMTECH
